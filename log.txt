@@ -1,0 +1,9 @@
+INFO: User login successful
+ERROR: Failed login attempt
+ERROR: Failed login attempt
+ERROR: Failed login attempt
+WARNING: Disk space low
+INFO: File accessed
+ERROR: Unauthorized access
+WARNING: Disk space low
+ERROR: Failed login attempt
